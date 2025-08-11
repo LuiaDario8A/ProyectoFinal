@@ -8,8 +8,13 @@
 ![Estado](https://img.shields.io/badge/estado-en%20prototipo-yellow)  
 ![Licencia](https://img.shields.io/badge/licencia-MIT-green)
 
-> Breve descripción del proyecto: ¿qué hace, para quién está hecho y por qué es importante?
-
+>Un producto de entretenimiento en plataformas en 2D sobre recoleccion de desechos
+hecho para todo publico, adultos, niños y ancianos, un entretenimiento hecho
+para divertir al consumidor y influenciarlo a ver el tema del
+reciclaje de una manera mas entretenida e intuitiva, con este proyecto se espera
+mostrar el tema del reciclaje de una manera mas entretenida y que atraiga a mas
+publico a probar el juego
+>
 ---
 
 ## 🎯 Objetivo del Proyecto
