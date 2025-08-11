@@ -34,8 +34,12 @@ publico a probar el juego
 
 ## 🧪 Prototipo
 
-🔗 **[Ver prototipo funcional](https://tuprototipo.netlify.app)**  
-📁 **[Ver prototipo en Figma](https://www.figma.com/file/...)**
+<img width="1024" height="597" alt="image" src="https://github.com/user-attachments/assets/df48a196-eb05-45a3-8583-dc84de471d1b" />
+ 
+<img width="1440" height="1200" alt="image" src="https://github.com/user-attachments/assets/35ae4cf2-1038-4e5e-b3aa-bb2bb413de66" />
+
+<img width="1216" height="1216" alt="image" src="https://github.com/user-attachments/assets/158aed25-3afe-4a1e-8632-610f522110cc" />
+
 
 ### 📸 Capturas
 
