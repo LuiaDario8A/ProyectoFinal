@@ -46,18 +46,19 @@ publico a probar el juego
 | Pantalla de Inicio | Vista de Usuario | Panel Admin |
 |--------------------|------------------|-------------|
 |(<img width="302" height="276" alt="image" src="https://github.com/user-attachments/assets/76e99c27-2373-4f38-9dd8-80d045f3cd82" />
-) | ![Usuario](./assets/usuario.png) | ![Admin](./assets/admin.png) |
+) | ![Usuario](<img width="1024" height="597" alt="image" src="https://github.com/user-attachments/assets/dcb1fc7e-4afb-463c-8c96-a8371c7964a6" />
+) | ![Admin](<img width="1024" height="120" alt="image" src="https://github.com/user-attachments/assets/b7eeb037-ff54-47eb-9d1f-2eeaf272fdfd" />
+) |
 
 ---
 
 ## 🧰 Tecnologías Utilizadas
 
-**Frontend:**
-- React / Vue / HTML + CSS + JS  
-- Tailwind CSS / Bootstrap / Material UI
+**Pixilart:**
 
-**Backend:**
-- Node.js / Express / Django / Firebase
+
+**Gdevelop:**
+- Java
 
 **Base de datos:**
 - MongoDB / PostgreSQL / Firestore
