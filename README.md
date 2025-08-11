@@ -19,11 +19,16 @@ publico a probar el juego
 
 ## 🎯 Objetivo del Proyecto
 
-Explica brevemente el propósito general:
-
-- Qué problema busca resolver
-- A qué público está dirigido
-- Qué lo hace diferente o especial
+- Principalmente entretener al consumidor y llegar minimamente a 
+  jovenes o niños para enseñarles de una manera nueva sobre
+  el reciclaje de manera que les paresca entretenido y divertido.
+  
+- Nuestro juego va dirigido a todo publico con su animacion en
+  pixel art y su tematica neutral.
+  
+- Lo que hace nuestro juego especial seria su tematica, sobre
+  el reciclaje de una manera sutil pero que resalta una manera
+  de hacerlo que es a traves de la recoleccion.
 
 ---
 
