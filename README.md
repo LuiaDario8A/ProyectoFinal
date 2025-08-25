@@ -50,27 +50,16 @@ publico a probar el juego
 
 ## 🧰 Tecnologías Utilizadas
 
-**Pixilart:**
+**Pixilart**
 
 
 **Gdevelop:**
 - Java
 
-**Base de datos:**
-- MongoDB / PostgreSQL / Firestore
-
-**Otras herramientas:**
-- Figma / Adobe XD (diseño)
-- Git / GitHub (control de versiones)
-- Netlify / Vercel / Heroku (despliegue)
-
----
-
 ## ⚙️ Instalación
 
 ### Requisitos previos
 
-- Node.js ≥ 18  
 - Git instalado  
 - Navegador moderno
 
