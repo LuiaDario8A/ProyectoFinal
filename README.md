@@ -1,7 +1,7 @@
 # 🚀 EcoCollector
-<img width="1024" height="1536" alt="image" src="https://github.com/user-attachments/assets/5f15db6f-cc69-4fa3-8440-e78957481d63" />
+<img src="https://github.com/user-attachments/assets/5f15db6f-cc69-4fa3-8440-e78957481d63" width="300" />
 
-<img width="1396" height="570" alt="image" src="https://github.com/user-attachments/assets/8d72411d-eabe-4318-8178-2a771a294515" />
+<img src="https://github.com/user-attachments/assets/8d72411d-eabe-4318-8178-2a771a294515" width="300" />
 
 
 ![Versión](https://img.shields.io/badge/versión-1.0.5-blue)  
@@ -34,21 +34,17 @@ publico a probar el juego
 
 ## 🧪 Prototipo
 
-<img width="1024" height="597" alt="image" src="https://github.com/user-attachments/assets/df48a196-eb05-45a3-8583-dc84de471d1b" />
- 
-<img width="1440" height="1200" alt="image" src="https://github.com/user-attachments/assets/35ae4cf2-1038-4e5e-b3aa-bb2bb413de66" />
+| Prototipo 1 | Prototipo 2 | Prototipo 3 |
+|-------------|-------------|-------------|
+| <img src="https://github.com/user-attachments/assets/df48a196-eb05-45a3-8583-dc84de471d1b" width="200"/> | <img src="https://github.com/user-attachments/assets/35ae4cf2-1038-4e5e-b3aa-bb2bb413de66" width="200"/> | <img src="https://github.com/user-attachments/assets/158aed25-3afe-4a1e-8632-610f522110cc" width="200"/> |
 
-<img width="1216" height="1216" alt="image" src="https://github.com/user-attachments/assets/158aed25-3afe-4a1e-8632-610f522110cc" />
-
+---
 
 ### 📸 Capturas
 
 | Pantalla de Inicio | Vista de Usuario | Panel Admin |
 |--------------------|------------------|-------------|
-|(<img width="302" height="276" alt="image" src="https://github.com/user-attachments/assets/76e99c27-2373-4f38-9dd8-80d045f3cd82" />
-) | ![Usuario](<img width="1024" height="597" alt="image" src="https://github.com/user-attachments/assets/dcb1fc7e-4afb-463c-8c96-a8371c7964a6" />
-) | ![Admin](<img width="1024" height="120" alt="image" src="https://github.com/user-attachments/assets/b7eeb037-ff54-47eb-9d1f-2eeaf272fdfd" />
-) |
+| <img src="https://github.com/user-attachments/assets/76e99c27-2373-4f38-9dd8-80d045f3cd82" width="200"/> | <img src="https://github.com/user-attachments/assets/dcb1fc7e-4afb-463c-8c96-a8371c7964a6" width="200"/> | <img src="https://github.com/user-attachments/assets/b7eeb037-ff54-47eb-9d1f-2eeaf272fdfd" width="200"/> |
 
 ---
 
