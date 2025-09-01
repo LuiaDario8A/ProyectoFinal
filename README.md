@@ -38,7 +38,6 @@ publico a probar el juego
 |-------------|-------------|-------------|
 | <img src="https://github.com/user-attachments/assets/df48a196-eb05-45a3-8583-dc84de471d1b" width="200"/> | <img src="https://github.com/user-attachments/assets/35ae4cf2-1038-4e5e-b3aa-bb2bb413de66" width="200"/> | <img src="https://github.com/user-attachments/assets/158aed25-3afe-4a1e-8632-610f522110cc" width="200"/> |
 "C:\Users\salasistemas\Pictures\Screenshots\Captura de pantalla 2025-09-01 071251.png"
-<img width="1277" height="711" alt="Captura de pantalla 2025-09-01 071251" src="https://github.com/user-attachments/assets/e7c690ac-098d-4f90-aaf3-1d66538574f9" />
 
 ---
 
@@ -46,7 +45,8 @@ publico a probar el juego
 
 | Pantalla de Inicio | Vista de Usuario | Panel Admin |
 |--------------------|------------------|-------------|
-| <img src="https://github.com/user-attachments/assets/76e99c27-2373-4f38-9dd8-80d045f3cd82" width="200"/> | <img src="https://github.com/user-attachments/assets/dcb1fc7e-4afb-463c-8c96-a8371c7964a6" width="200"/> | <img src="https://github.com/user-attachments/assets/b7eeb037-ff54-47eb-9d1f-2eeaf272fdfd" width="200"/> |
+| <img width="1277" height="711" alt="Captura de pantalla 2025-09-01 071251" src="https://github.com/user-attachments/assets/cd5a3978-fb4d-45d2-a1d1-ad64c656f68e" />
+ | <img src="https://github.com/user-attachments/assets/dcb1fc7e-4afb-463c-8c96-a8371c7964a6" width="200"/> | <img src="https://github.com/user-attachments/assets/b7eeb037-ff54-47eb-9d1f-2eeaf272fdfd" width="200"/> |
 
 ---
 
