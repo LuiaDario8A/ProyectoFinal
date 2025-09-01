@@ -37,6 +37,8 @@ publico a probar el juego
 | Prototipo 1 | Prototipo 2 | Prototipo 3 |
 |-------------|-------------|-------------|
 | <img src="https://github.com/user-attachments/assets/df48a196-eb05-45a3-8583-dc84de471d1b" width="200"/> | <img src="https://github.com/user-attachments/assets/35ae4cf2-1038-4e5e-b3aa-bb2bb413de66" width="200"/> | <img src="https://github.com/user-attachments/assets/158aed25-3afe-4a1e-8632-610f522110cc" width="200"/> |
+"C:\Users\salasistemas\Pictures\Screenshots\Captura de pantalla 2025-09-01 071251.png"
+<img width="1277" height="711" alt="Captura de pantalla 2025-09-01 071251" src="https://github.com/user-attachments/assets/e7c690ac-098d-4f90-aaf3-1d66538574f9" />
 
 ---
 
