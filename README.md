@@ -45,8 +45,7 @@ publico a probar el juego
 
 | Pantalla de Inicio | Vista de Usuario | Panel Admin |
 |--------------------|------------------|-------------|
-| <img width="1277" height="711" alt="Captura de pantalla 2025-09-01 071251" src="https://github.com/user-attachments/assets/cd5a3978-fb4d-45d2-a1d1-ad64c656f68e" />
- | <img src="https://github.com/user-attachments/assets/dcb1fc7e-4afb-463c-8c96-a8371c7964a6" width="200"/> | <img src="https://github.com/user-attachments/assets/b7eeb037-ff54-47eb-9d1f-2eeaf272fdfd" width="200"/> |
+| <img src="https://github.com/user-attachments/assets/cd5a3978-fb4d-45d2-a1d1-ad64c656f68e" width="200"/> | <img src="https://github.com/user-attachments/assets/dcb1fc7e-4afb-463c-8c96-a8371c7964a6" width="200"/> | <img src="https://github.com/user-attachments/assets/b7eeb037-ff54-47eb-9d1f-2eeaf272fdfd" width="200"/> |
 
 ---
 
