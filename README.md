@@ -59,6 +59,8 @@ publico a probar el juego
 
 ## ⚙️ Instalación
 
+https://gd.games/games/4d542924-4058-4aa7-805c-57f904f81377
+
 ### Requisitos previos
 
 - Git instalado  
