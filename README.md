@@ -59,7 +59,7 @@ publico a probar el juego
 
 ## ⚙️ Instalación
 
-https://gd.games/instant-builds/47fce688-6905-45c5-9e04-60859baadd22
+file:///C:/Users/salasistemas/Desktop/Eco%20%20Collector/Index.html
 
 ### Requisitos previos
 
